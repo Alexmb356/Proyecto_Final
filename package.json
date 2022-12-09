@@ -1,0 +1,28 @@
+{
+  "name": "proyecto_final",
+  "version": "1.0.0",
+  "description": "Proyecto final codo a codo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexmb356/Proyecto_Final.git"
+  },
+  "author": "Alex Mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexmb356/Proyecto_Final/issues"
+  },
+  "homepage": "https://github.com/Alexmb356/Proyecto_Final#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "server": "^1.0.38"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
